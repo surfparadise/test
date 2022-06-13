@@ -3,7 +3,7 @@
     {
       "id": 0,
       "description": "here the desc",
-      "image": "ipfs://QmaezgGAXKv5aDm2n5D6wS4YEcPVKz6W8EjsNHVWSpX67Z",
+      "image": "https://cloudflare-ipfs.com/ipfs/QmaezgGAXKv5aDm2n5D6wS4YEcPVKz6W8EjsNHVWSpX67Z?filename=bart.jpg",
       "name": "Bart"
     }
   ]
