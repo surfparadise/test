@@ -4,6 +4,7 @@
       "id": 0,
       "description": "here the desc",
       "image": "https://cloudflare-ipfs.com/ipfs/QmaezgGAXKv5aDm2n5D6wS4YEcPVKz6W8EjsNHVWSpX67Z?filename=bart.jpg",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "name": "Bart"
     }
   ]
