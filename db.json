@@ -2,9 +2,9 @@
   "tokens": [
     {
       "id": 0,
-      "description": "My NFT",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 0"
+      "description": "here the desc",
+      "image": "ipfs://QmaezgGAXKv5aDm2n5D6wS4YEcPVKz6W8EjsNHVWSpX67Z",
+      "name": "Bart"
     }
   ]
 }
