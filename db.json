@@ -1,31 +1,10 @@
 {
-  "posts": [
+  "tokens": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "id": 0,
+      "description": "My NFT",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 0"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
