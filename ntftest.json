@@ -1,6 +1,8 @@
-{
-  "id": "1980",
+[
+  {
+  "id": 1980,
   "name": "Bart",
   "description": "Bart rock",
-  "image": "ipfs://QmaezgGAXKv5aDm2n5D6wS4YEcPVKz6W8EjsNHVWSpX67Z",
-}
+  "image": "ipfs://QmaezgGAXKv5aDm2n5D6wS4YEcPVKz6W8EjsNHVWSpX67Z"
+  }
+]
